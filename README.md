@@ -1,6 +1,9 @@
 # DAI
 DAI-101 course
 
+## Author
+- **ARYAN EN-NO 23112022**
+
 📌 Note: Sometimes, the notebook may not open due to internet issues. Please try again with a stable internet connection. 🔄📶
 
 # Exploratory Data Analysis (EDA) for Stroke Prediction Dataset
@@ -70,6 +73,5 @@ The dataset contains various features such as:
 - Train machine learning models to predict stroke occurrence
 - Implement advanced statistical tests and feature selection
 
-## Author
-- **ARYAN EN-NO 23112022**
+
 
