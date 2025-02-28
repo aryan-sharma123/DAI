@@ -6,6 +6,9 @@ DAI-101 course
 ## Introduction
 This project performs an in-depth **Exploratory Data Analysis (EDA)** on a dataset related to stroke prediction. It includes **univariate and bivariate analysis**, data visualization, and statistical tests to understand patterns and relationships between variables.
 
+## DATA-SET link
+https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+
 ## Dataset Overview
 The dataset contains various features such as:
 - **Demographic Information** (Age, Gender, Residence Type, etc.)
@@ -41,6 +44,14 @@ The dataset contains various features such as:
 - Stroke risk increases significantly with **age**, especially in the **66+** age group.
 - **Smokers** have a higher percentage of stroke cases than non-smokers.
 - **Hypertension and heart disease** show a strong correlation with stroke occurrences.
+- males are more prone to stroke than female
+- formerly smoking people are prone to stroke ...we need to focus more on these people
+- self-employed people prone to stroke
+- married people are prone to stroke
+- private employee do not smoke much
+- avg_glucose_level having more outliers
+- mostly numerical columns are normally distributed
+- age group 51-65 not having a good health 
 
 ## How to Run the Code
 1. Install required libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`
@@ -48,8 +59,8 @@ The dataset contains various features such as:
 3. Explore visualizations and statistical outputs
 
 ## Files Included
-- **Untitled.ipynb** → Jupyter Notebook with all EDA code
-- **Dataset.csv** → Stroke dataset used for analysis (if applicable)
+- **EDA_analysis_for_stroke_prediction.ipynb** → Jupyter Notebook with all EDA code
+- **healthcare-dataset-stroke-data.csv** → Stroke dataset used for analysis (if applicable)
 - **README.md** → This file
 
 ## Future Scope
@@ -58,5 +69,5 @@ The dataset contains various features such as:
 - Implement advanced statistical tests and feature selection
 
 ## Author
-- **Your Name**
+- **ARYAN EN-NO 23112022**
 
