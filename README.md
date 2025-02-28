@@ -1,6 +1,8 @@
 # DAI
 DAI-101 course
 
+📌 Note: Sometimes, the notebook may not open due to internet issues. Please try again with a stable internet connection. 🔄📶
+
 # Exploratory Data Analysis (EDA) for Stroke Prediction Dataset
 
 ## Introduction
